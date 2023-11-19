@@ -162,3 +162,39 @@ background: rgba(83, 195, 81, 0.33);
     font-size: 18px;
 }
 /* first section ended */
+
+/* secon section started */
+.container .garden{
+    display: flex;
+    margin-left: 220px;
+    margin-top: 142px;
+}
+.container .garden .garden_text h2{
+    color: #374A3D;
+    font-family: Fredoka One;
+    font-size: 36px;
+}
+.container .garden .garden_text p{
+    color: #678570;
+    font-family: Gilroy;
+    font-size: 18px;
+    padding-top: 30px;
+}
+.container .garden .garden_text button{
+    background-color: #FFF;
+    border-radius: 50px solid #0ca941;
+    border: none;
+}
+/* second section ended */
+
+/* third section started */
+.container .professional{
+    margin-top: 100px;
+    margin-left: 220px;
+
+}
+.container .practical .professional_info h2{
+    color: #374A3D;
+    font-family: Fredoka One;
+    font-size: 36px;
+}
