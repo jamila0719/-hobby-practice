@@ -135,3 +135,30 @@ background: rgba(83, 195, 81, 0.33);
     font-family: Gilroy;
     font-size: 18px;
 }
+.container .first_section_info .practical {
+    margin-left: 75px ;
+}
+.container .first_section_info .practical strong{
+    color: #0CA941;
+    font-family: Gilroy;
+    font-size: 60px;
+}
+.container .first_section_info .practical p{
+    color: #678570;
+    font-family: Gilroy;
+    font-size: 18px;
+}
+.container .first_section_info .team{
+    margin-left: 50px;
+}
+.container .first_section_info .team strong{
+    color: #0CA941;
+    font-family: Gilroy;
+    font-size: 60px;
+}
+.container .first_section_info .team p{
+    color: #678570;
+    font-family: Gilroy;
+    font-size: 18px;
+}
+/* first section ended */
