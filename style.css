@@ -292,3 +292,56 @@ background: rgba(83, 195, 81, 0.33);
     margin-left: 135px;
 }
 /* fourht setion ended */
+
+/* fiveth section started */
+.container .complete{
+    margin-top: 135px;
+    margin-left: 215px;
+    width: 1170px;
+    height: 508.809px;
+    border-radius: 19px;
+    background: #F8F8F8;
+    text-align: center;
+    justify-content: center;
+}
+.container .complete h2{
+    color: #374A3D;
+    font-family: Fredoka One;
+    font-size: 36px;
+    padding-top: 95px;
+}
+.container .complete p{
+    color: #678570;
+    font-family: Gilroy;
+    font-size: 18px;
+    padding-top: 30px;
+}
+.container .complete .compelete_btn{
+    padding-top: 50px;
+}
+.container .complete .compelete_btn #message{
+    width: 491.346px;
+    height: 81.891px;
+    border-radius: 10px;
+    border: 1px solid #0CA941;
+    background: #FFF;
+}
+.container .complete .compelete_btn button{
+    width: 223.418px;
+    height: 81.891px;
+    border-radius: 10px;
+    background: #0CA941;
+    color: #FFF;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 18px;
+    border: none;
+}
+.container .complete .compelete_btn button:active{
+    background-color: #FFF;
+    color: #0CA941;
+    border: #0CA941;
+}
+/* fiveth setion ended */
+
+/* footer started */
