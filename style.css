@@ -193,8 +193,13 @@ background: rgba(83, 195, 81, 0.33);
     margin-left: 220px;
 
 }
-.container .practical .professional_info h2{
+.container .professional .professional_info h2{
     color: #374A3D;
     font-family: Fredoka One;
     font-size: 36px;
+}
+.container .professional .professional_info p{
+    color: #678570;
+    font-family: Gilroy;
+    font-size: 18px;
 }
