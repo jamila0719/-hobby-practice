@@ -203,3 +203,91 @@ background: rgba(83, 195, 81, 0.33);
     font-family: Gilroy;
     font-size: 18px;
 }
+/* third setion ended */
+
+/* fourth setion started */
+
+.container .dream{
+    margin-top: 100px;
+    margin-left: 215px;
+}
+
+.container .dream .dream_info{
+    text-align: center;
+    justify-content: center;
+    
+}
+.container .dream .dream_info  h2{
+    color: #374A3D;
+    font-family: Fredoka One;
+}
+.container .dream .dream_info p{
+    color: #678570;
+    font-family: Gilroy;
+    font-size: 18px;
+    padding-top: 30px;
+}
+.container .dream .plants{
+    display: flex;
+    gap: 45px;
+}
+
+.container .dream .plants .dreamPlant{
+    margin-top: 60px;
+    width: 360px;
+    height: 437px;
+    border-radius: 37px;
+    border: 0.5px solid rgba(0, 0, 0, 0.36);
+    text-align: center;
+}
+.container .dream .plants .dreamPlant .plant .imgPlant{
+    padding-top: 30px;
+}
+
+.container .dream .plants  .dreamPlant .plant h3{
+    color: #374A3D;
+    font-family: Fredoka One;
+    font-size: 24px;
+}
+
+.container .dream.plants   .dreamPlant .plant .imgStars{
+    margin-left: -125px;
+    margin-top: 8px
+}
+.container .dream .plants  .dreamPlant .plant .price{
+    margin-left: -210px;
+    margin-top: 15px;
+}
+.container .dream .plants  .dreamPlant .plant .price .prices{
+    
+    color: #678570;
+    font-family: Gilroy;
+    font-size: 12px;
+
+}
+.container .dream .plants  .dreamPlant .plant .price p{
+    color: #0CA941;
+    font-family: Fredoka One;
+    font-size: 20px;
+}
+.container .dream .plants  .dreamPlant .plant .plant_btn button{
+    width: 128.057px;
+    height: 43.929px;
+    border-radius: 10px;
+    border: 0.5px solid rgba(55, 74, 61, 0.36);
+    color: #678570;
+    text-align: center;
+    font-family: Gilroy;
+    font-size: 16px;
+    background-color: #FFF;
+}
+.container .dream .plants  .dreamPlant .plant .plant_btn button:active{
+    background-color: #678570;
+    color: #FFF;
+    
+}
+
+.container .dream .plants  .dreamPlant .plant .plant_btn {
+    margin-top: -40px;
+    margin-left: 100px;
+}
